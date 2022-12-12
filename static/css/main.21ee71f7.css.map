@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.21ee71f7.css","mappings":"AAAA,GACE,gCACF,CAEA,yCACE,WACE,oBACF,CACF","sources":["App.css"],"sourcesContent":["h1 {\n  font-family: \"Audiowide\", sans-serif;\n}\n\n@media only screen and (max-width: 576px) {\n  #searchBox {\n    width: 100% !important;\n  }\n}"],"names":[],"sourceRoot":""}

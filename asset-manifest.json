@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-word-length/static/css/main.21ee71f7.css",
+    "main.js": "/react-word-length/static/js/main.d8c4ec0b.js",
+    "index.html": "/react-word-length/index.html",
+    "main.21ee71f7.css.map": "/react-word-length/static/css/main.21ee71f7.css.map",
+    "main.d8c4ec0b.js.map": "/react-word-length/static/js/main.d8c4ec0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ee71f7.css",
+    "static/js/main.d8c4ec0b.js"
+  ]
+}
